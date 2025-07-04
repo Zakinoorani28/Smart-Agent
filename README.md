@@ -19,12 +19,19 @@ A basic Python-based AI agent using LangChain and OpenAI GPT-3.5 for meeting not
 ## 🗂️ Project Structure
 
 smart-agent/
+
 ├── agent.py # LangChain tools & agent setup
+
 ├── main.py # Entry point
+
 ├── helper.py # (optional) Error handler for rate-limiting
+
 ├── .env # OpenAI API Key (not committed)
+
 ├── requirements.txt # Python dependencies
+
 ├── .gitignore # Prevents secrets and venv from being pushed
+
 └── README.md # Project info
 
 ## ⚙️ Setup
